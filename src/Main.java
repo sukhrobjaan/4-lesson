@@ -46,6 +46,7 @@ public class Main {
                         c = arfimetik.div(c, b);
                         count++;
                         System.out.println("Tugatish uchun null kiriting amalga ");
+                        System.out.println("Tugatish uchun null kiriting amalga ");
                         break;
                     default:
                         System.out.println("Amalni boshqatdan kiriting xatolik bor");
